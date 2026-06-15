@@ -40,5 +40,7 @@ JupyterBook has a built-in function to set up GitHub Pages deployment:
 jupyter book init --gh-pages
 ~~~
 
-Answer the prompted questions; this will create a `.github/workflows/deploy.yml` file. Commit everything to a public GitHub repository, enable **Pages** in the repository settings set to build via **GitHub Actions**, and your site will be published automatically.
+Answer the prompted questions; this will create a `.github/workflows/deploy.yml` file. 
+
+Commit everything to a public GitHub repository, enable **Pages** in the repository settings set to build via **GitHub Actions**, and your site will be published automatically upon new push actions. You can check whether deployment has worked within the GitHub Actions tab.
 
