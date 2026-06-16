@@ -4,5 +4,5 @@ Hello! This is a very bare-bones example website to show you how you might take 
 
 Click through to the pages here to explore:
 
-- [Content & Markdown Examples](content)
-- [Jupyter Notebook example](notebook)
+- [Content & Markdown Examples](/content)
+- [Jupyter Notebook example](/notebook)
